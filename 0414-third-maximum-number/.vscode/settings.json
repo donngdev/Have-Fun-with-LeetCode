@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "__hash_table": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "*.tcc": "cpp",
+    "algorithm": "cpp",
+    "memory": "cpp",
+    "set": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp"
+  }
+}
