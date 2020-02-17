@@ -8,6 +8,7 @@
  */
 class Solution {
 public:
+  // Iteration 
   // Time complexity: O(n) n is the total number of nodes of l1 and l2.
   // space complexity: O(1)
   ListNode* mergeTwoLists(ListNode* l1, ListNode* l2)
