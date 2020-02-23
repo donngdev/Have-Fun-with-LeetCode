@@ -4,6 +4,8 @@ using namespace std;
 
 class Solution {
 public:
+    // Time complexity: O(1)  // O(1) ~ O(32)
+    // Space complexity: O(1)
     int getSum(int a, int b)
     {
       int sum = a;
